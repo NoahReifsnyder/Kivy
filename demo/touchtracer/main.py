@@ -21,7 +21,7 @@ copy/paste this directory into /sdcard/kivy/touchtracer on your Android device.
 __version__ = '1.0'
 
 import kivy
-kivy.require('1.0.6')
+kivy.require('1.10.0')
 
 from kivy.app import App
 from kivy.uix.floatlayout import FloatLayout
